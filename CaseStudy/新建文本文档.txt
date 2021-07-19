@@ -1,0 +1,102 @@
+Which one of the following options is calledautomatically When a class is 
+instantiated?
+1、Constructor
+2、Variable
+3、Abstract method
+4、Packge
+Which one of the followign ytpes of literals can be specified only by values,true or false?
+1、String
+2、Boolean
+3、Integer
+4、Floating point
+Which one of the following operators is used to find the remainder and assign the result to a variable?
+1、%
+2、%=
+3、/
+4、/=
+Which one of the following values can be accepted by the switch construct?
+1、Boolean
+2、Float
+3、Doubel
+4、Character
+Identify the total number of elements,if an array is declared as:
+   int [] arr=new int [5]
+1、3
+2、4
+3、5
+4、6
+Which method is used to return all the values stored in anenum ?
+1、allValues()
+2、getValues()
+3、valuesOf()
+4、values()
+Which one of the following keywords is used to represent an object of the current class ?
+1、super
+2、this
+3、interface
+4、abstract
+Which one of the folowing keywords lists the checked exceptions that a method can throw ?
+1、throws
+2、throw
+3、catch
+4、finally
+Which one of the following errors is generated if an assertion dose not hold true ?
+1、AssertionError
+2、IllegalAccess
+3、TypeMismatch
+4、IllegalAssertion
+Which one of the following classes is the sub class of the Window class ?
+1、JPanel
+2、JFrame
+3、JList
+4、JTabbedPane
+Which one of the foloowing layouts allows you to place the components only in five regions ?
+1、BorderLayout
+2、BoxLayout
+3、FlowLayout
+4、GridBagLayout
+Which one of the foloowing inner classes can be defind without the name of the class ?
+1、Regular inner class
+2、Static inner class
+3、Method-localinner class
+4、Anonymous inner class
+Which one of the folowing statements denotes the correct way to create an instance of the Local class ?
+1、Local l=new Local("de","DE")
+2、Local l=new Local("DE","de")
+3、Local l=new Local('de','DE')
+4、Local l=new Local('DE','de')
+Which one of the folowing wildcards is used to specify the type that is inherited from the specified class ?
+1、<?>
+2、<? extends>
+3、<extends ?>
+4、<? extends ?>
+Which one of the following classes enables you yo create a collection of unique objects ?
+1、List
+2、Vector
+3、TreeSet
+4、ArrayList
+Which one of the following classes contains the synchronized methods ?
+1、Hashtable
+2、HashSet
+3、TreeMap
+4、ArrayList
+Which one of the following methods is used to ensure that the close() method of the FileInpuStream class is called when there are no more references to it ?
+1、finalize()
+2、ready()
+3、reset()
+4、close() 
+Which one of the following keywords should be used if you want to exclude a certain field when implementing deserialization ?
+1、transient
+2、volatile
+3、default
+4、const 
+Which one of the following methods of the MouseEvent class returns the x and y coordinateds of the mouse >
+1、getx()
+2、gety()
+3、getPaint()
+4、translatePoint()
+Which one of the following methods of the MouseListener interface handles the event that occurs after the mouse is pressed and relessed ?
+1、mouseMoved()
+2、mouseEntered()
+3、mouseClicked()
+4、mouseDragged()
